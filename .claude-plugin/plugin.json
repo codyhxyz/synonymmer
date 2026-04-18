@@ -1,0 +1,21 @@
+{
+  "name": "synonymmer",
+  "description": "Generate 100-200 wide-net related words for a seed term, organized into scannable vibe-based clusters. Thesaurus-on-steroids for naming and brainstorming.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Cody Hergenroeder",
+    "email": "chergenroeder135@gmail.com"
+  },
+  "homepage": "https://github.com/codyhxyz/synonymmer",
+  "repository": "https://github.com/codyhxyz/synonymmer",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "naming",
+    "brainstorming",
+    "thesaurus",
+    "writing",
+    "copywriting",
+    "wordlist"
+  ]
+}
