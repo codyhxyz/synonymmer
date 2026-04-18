@@ -1,15 +1,15 @@
 # synonymmer
 
-> A thesaurus on steroids, organized by vibe instead of strict synonymy. Give it a seed word, get 100–200 related words clustered by register, etymology, archetype, and sonic quality.
+> A thesaurus that sorts by vibe instead of strict synonymy. Feed it a seed word, get 100-200 related words grouped into clusters you can actually skim.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Built for Claude Code](https://img.shields.io/badge/built%20for-Claude%20Code-6B4FBB)](https://docs.claude.com/claude-code)
 
-Naming a product, band, startup, character, or project? The first three synonyms your brain coughs up are always the same three. `synonymmer` sprays out a wide net — archetypes, Latin and Greek pulls, single-syllable snares, verbs-as-names, foreign-language imports — and organizes them into scannable clusters so you can browse by *vibe*, not by alphabetical order.
+Naming a product, band, startup, character, or project? The first three synonyms your brain coughs up are always the same three. synonymmer throws a wider net: archetypes, Latin and Greek pulls, single-syllable snares, verbs-as-names, foreign imports. It groups them so you can browse by sound and feel, not by alphabet.
 
-No ranking. No "my picks." Raw material. You judge.
+No rankings. No "my picks." Raw material. You judge.
 
-## Quick Start
+## Quick start
 
 ### Claude Code
 
@@ -18,7 +18,7 @@ No ranking. No "my picks." Raw material. You judge.
 /plugin install synonymmer@synonymmer
 ```
 
-### Try it locally before installing
+### Try it locally first
 
 ```bash
 git clone https://github.com/codyhxyz/synonymmer
@@ -35,14 +35,13 @@ Then ask Claude any of:
 
 ## Why
 
-- **Escapes the synonym trap.** A thesaurus gives you 10 near-identical words. `synonymmer` gives you 150 adjacent ones — archetypes, Latin roots, monosyllabic snares, foreign pulls.
-- **Clusters by vibe, not by category.** Not "nouns / verbs / adjectives" — things like `**Pioneer / frontier**`, `**Slow-burn grandeur**`, `**Clinical / surgical**`.
-- **No editorializing.** It hands you raw material and gets out of the way.
-- **Format is load-bearing.** Same shape every time: bold headings, words separated by ` · `, no preamble, no outro. Predictable to skim.
+A regular thesaurus gives you ten near-identical words. synonymmer gives you 150 adjacent ones and sorts them by feel rather than grammatical category, so the clusters are things like `**Pioneer / frontier**`, `**Slow-burn grandeur**`, and `**Clinical / surgical**`.
+
+It does not editorialize. It does not pick favorites. The format is the same every time: bold headings, words separated by ` · `, no preamble, no outro. The rigidity is the point. You can scan 150 words in under a minute because your eye always lands in the same spot.
 
 ## How it works
 
-The skill activates on any request for a wide-net word list around a seed. It generates ~250 candidates, filters to 100–200 keepers, groups them into 12–18 vibe-labeled clusters, and prints. Always includes at least one cluster of archetypes (Promethean, Icarian, Faustian…), one of single-syllable snares (raze, forge, cleave…), one of verbs-as-names, one of Latin/Greek pulls, and a "wild cards" bucket at the end for orphans that earned their spot.
+The skill fires on any request for a wide-net word list around a seed. It generates ~250 candidates, filters to 100-200 keepers, groups them into 12-18 vibe-labeled clusters, and prints. At minimum you always get one cluster of archetypes (Promethean, Icarian, Faustian...), one of single-syllable snares (raze, forge, cleave...), one of verbs-as-names, one of Latin and Greek pulls, and a "wild cards" bucket at the end for orphans that earned their spot.
 
 ## Examples
 
@@ -71,7 +70,7 @@ The skill activates on any request for a wide-net word list around a seed. It ge
 > magnum-opus · ex-nihilo · tabula-rasa · casus · fiat · nova · apex · ultima · Prometheus · Icarus
 > ```
 >
-> (abridged — full output is 12–18 clusters / 100–200 words)
+> (abridged — full output is 12-18 clusters / 100-200 words)
 
 > **Example 2** — "give me a word dump for 'origin'"
 >
@@ -100,7 +99,7 @@ The skill activates on any request for a wide-net word list around a seed. It ge
 
 ## Contributing
 
-Issues and PRs welcome. Open an issue describing what you'd change before sending a large PR.
+Issues and PRs welcome. Open an issue before sending anything large so we can talk about it first.
 
 ## License
 
