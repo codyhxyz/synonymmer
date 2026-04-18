@@ -1,6 +1,6 @@
 ---
 name: synonymmer
-description: Use when the user wants a wide-net cluster dump of related words for naming, brainstorming, copywriting, or concept exploration — a thesaurus-on-steroids organized by vibe instead of strict synonymy. Triggers on phrases like "give me words for X", "brainstorm names around X", "synonymmer X", "what else sounds like X", "word cloud for X", "cluster-dump X", "I'm naming a product/band/startup/character", or any request to spray out dozens-to-hundreds of related words grouped by register, etymology, archetype, sonic quality, or part-of-speech.
+description: Use when the user wants a wide-net cluster dump of related words for naming, brainstorming, copywriting, or concept exploration — a thesaurus-on-steroids organized by vibe instead of strict synonymy. Triggers on phrases like "help me name a X", "what would you call X", "naming options for X", "I need a name for X", "give me words for X", "brainstorm names around X", "synonymmer X", "what else sounds like X", "word cloud for X", "cluster-dump X", "I'm naming a product/band/startup/character", or any request to spray out dozens-to-hundreds of related words grouped by register, etymology, archetype, sonic quality, or part-of-speech.
 ---
 
 # synonymmer — wide-net clustered word dumps

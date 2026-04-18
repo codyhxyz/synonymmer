@@ -11,7 +11,7 @@
     {
       "name": "synonymmer",
       "description": "Generate 100-200 wide-net related words for a seed term, organized into scannable vibe-based clusters. Thesaurus-on-steroids for naming and brainstorming.",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "source": "./",
       "author": {
         "name": "Cody Hergenroeder",
