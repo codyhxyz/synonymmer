@@ -1,5 +1,7 @@
 # synonymmer
 
+<p align="center"><img src="assets/og.png" alt="synonymmer" width="760"></p>
+
 > A thesaurus that sorts by vibe instead of strict synonymy. Feed it a seed word, get 100-200 related words grouped into clusters you can actually skim.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
