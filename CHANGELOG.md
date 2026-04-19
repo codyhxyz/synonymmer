@@ -8,7 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.2.0] — 2026-04-17
 
 ### Added
-- First public release. Repo flipped public and listed in `codyhxyz/claude-plugins` marketplace.
+- First public release. Repo flipped public and listed in `codyhxyz/codyhxyz-plugins` marketplace.
 - Expanded SKILL.md frontmatter trigger phrases so the skill fires on organic naming asks (`help me name a X`, `what would you call X`, `naming options for X`, `I need a name for X`) — not just when the user already knows the plugin name.
 
 ## [0.1.0] — 2026-04-17

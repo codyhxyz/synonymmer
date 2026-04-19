@@ -1,6 +1,6 @@
 # synonymmer
 
-<p align="center"><img src="assets/og.png" alt="synonymmer" width="760"></p>
+<p align="center"><img src="docs/hero.gif" alt="synonymmer demo: seed word 'forge' expanding into clustered word dump — smithy, mythic archetypes, single-syllable snares, Latin roots, foreign imports, verbs-as-names, wild cards" width="900"></p>
 
 > A thesaurus that sorts by vibe instead of strict synonymy. Feed it a seed word, get 100-200 related words grouped into clusters you can actually skim.
 
