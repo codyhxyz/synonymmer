@@ -6,6 +6,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Built for Claude Code](https://img.shields.io/badge/built%20for-Claude%20Code-6B4FBB)](https://docs.claude.com/claude-code)
+[![Part of codyhxyz-plugins](https://img.shields.io/badge/part_of-codyhxyz--plugins-ffd900?logo=github&logoColor=000)](https://github.com/codyhxyz/codyhxyz-plugins)
 
 Naming a product, band, startup, character, or project? The first three synonyms your brain coughs up are always the same three. synonymmer throws a wider net: archetypes, Latin and Greek pulls, single-syllable snares, verbs-as-names, foreign imports. It groups them so you can browse by sound and feel, not by alphabet.
 
@@ -19,6 +20,8 @@ No rankings. No "my picks." Raw material. You judge.
 /plugin marketplace add codyhxyz/synonymmer
 /plugin install synonymmer@synonymmer
 ```
+
+See the full [codyhxyz-plugins marketplace](https://github.com/codyhxyz/codyhxyz-plugins) for my other plugins.
 
 ### Try it locally first
 
@@ -106,3 +109,7 @@ Issues and PRs welcome. Open an issue before sending anything large so we can ta
 ## License
 
 [MIT](LICENSE) © 2026 Cody Hergenroeder
+
+---
+
+<sub>Part of <a href="https://github.com/codyhxyz/codyhxyz-plugins"><b>codyhxyz-plugins</b></a> 🍋 — my registry of Claude Code plugins.</sub>
